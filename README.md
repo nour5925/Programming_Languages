@@ -1,17 +1,5 @@
 # Programming Languages Popularity Analysis (2004-2024)
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Project Overview
 
 This project analyzes the popularity trends of 29 programming languages from 2004 to 2024. Using comprehensive monthly data, we explore historical trends, identify dominant languages, and track the evolution of programming language preferences over two decades.
